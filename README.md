@@ -13,7 +13,7 @@ I'm passionate about technology, programming, and building solutions that make a
 
 - **Languages:** JavaScript, TypeScript, Dart
 - **Frameworks:** NestJs, Flutter
-- **Tools:** Git, Docker, VSCodium
+- **Tools:** Git, Docker, VSCodium, Helix
 
 ## 📈 GitHub Stats
 
